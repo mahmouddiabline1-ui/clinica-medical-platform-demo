@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vite/
+.deck-build/
+.deck-output/
+.deck-finalizer/
+.deck-final-render/
+Slide*.PNG
+*.log
+.DS_Store
+
