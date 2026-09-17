@@ -5,7 +5,7 @@ dist/
 .deck-output/
 .deck-finalizer/
 .deck-final-render/
+.codex-finalizer/
 Slide*.PNG
 *.log
 .DS_Store
-
